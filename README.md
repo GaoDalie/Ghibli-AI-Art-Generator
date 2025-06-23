@@ -13,7 +13,7 @@ Transform your photos into stunning Studio Ghibli-style artwork using AI! Upload
 - **Custom Prompts**: Add your own creative ideas to influence the transformation
 
 ## 🎬 Demo
-[(https://img.youtube.com/vi/926PbXJIV6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=926PbXJIV6E)
+[![Watch the video](https://img.youtube.com/vi/926PbXJIV6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=926PbXJIV6E)
 
 ## 🛠️ Tech Stack
 
