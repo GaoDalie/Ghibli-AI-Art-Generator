@@ -119,14 +119,14 @@ Transform your photos into stunning Studio Ghibli-style artwork using AI! Upload
 
 Connect with us on social media:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Medium**: [Your Medium Profile](https://medium.com/@yourprofile)
-- **YouTube**: [Your YouTube Channel](https://youtube.com/@yourchannel)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourhandle)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gao-dalie-%E9%AB%98%E9%81%94%E7%83%88-0a37481a9/)
+- **Medium**: [Your Medium Profile](https://medium.com/@GaoDalie_AI)
+- **YouTube**: [Your YouTube Channel](https://www.youtube.com/@GaoDalie_AI)
+- **Twitter**: [Your Twitter Profile](https://x.com/GaoDalie_AI)
 
 ## ⭐ Support Us
 
-If you enjoy our project, we'd truly appreciate your support! Simply click the  ⭐ **Star** button on our [GitHub](https://github.com/yourusername/ghibli-ai-generator)! every star helps us grow and keeps the project going. Thank you!
+If you enjoy our project, we'd truly appreciate your support! Simply click the  ⭐ **Star** button on our [GitHub](https://github.com/GaoDalie/Ghibli-AI-Art-Generator)! every star helps us grow and keeps the project going. Thank you!
 
 ---
 
